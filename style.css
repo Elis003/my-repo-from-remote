@@ -23,3 +23,23 @@ body {
 #profile-job {
 	text-align: center;
 }
+#footer {
+    width:  100px;
+    height: 50px;
+    position: absoulute;
+    bottom: 0;
+    line-height: 50px;
+    background-color: burlywood;
+    text-align: center;
+    color: white;
+}
+#header{
+    width:  100px;
+    height: 50px;
+    position: absoulute;
+    bottom: 0;
+    line-height: 50px;
+    background-color: burlywood;
+    text-align: center;
+    color: white;
+}
